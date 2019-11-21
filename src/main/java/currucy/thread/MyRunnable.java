@@ -1,4 +1,4 @@
-package currucy;
+package currucy.thread;
 
 /**
  * @Description:
